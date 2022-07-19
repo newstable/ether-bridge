@@ -1,1 +1,3 @@
-# Dev Mode
+# Ether-Bridge
+
+## npm install
